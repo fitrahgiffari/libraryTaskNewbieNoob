@@ -1,0 +1,91 @@
+{
+  "notes": [],
+  "transactions": [],
+  "contacts": [
+    {
+      "contactName": "fitrah",
+      "phone": "082191781251",
+      "id": 1
+    },
+    {},
+    {
+      "contactName": "sarah",
+      "phone": "08565678921",
+      "id": 2
+    },
+    {
+      "contactName": "tilly",
+      "phone": "08565678921",
+      "id": 4
+    },
+    {
+      "contactName": "thomas",
+      "phone": "08565678921",
+      "id": 6
+    },
+    {
+      "id": 9,
+      "contactName": "stu",
+      "phone": "085656788621"
+    },
+    {
+      "id": 10,
+      "contactName": "tutu",
+      "phone": "+628555788621"
+    },
+    {
+      "id": 10,
+      "contactName": "tutu",
+      "phone": "+628555788621"
+    },
+    {
+      "id": 11,
+      "contactName": "tutu",
+      "phone": "628555788621"
+    }
+  ],
+  "promos": [],
+  "weather": [],
+  "news": [
+    {
+      "header": "Teams",
+      "date": "2020-10-16",
+      "id": 1
+    }
+  ],
+  "credits": [
+    {
+      "debt": "2000",
+      "credit": "0",
+      "currentCredit": "2000",
+      "date": "2020-10-16",
+      "id": 1
+    }
+  ],
+  "location": [],
+  "stores": [
+    {
+      "id": "1",
+      "name": "Bintang",
+      "address": "Sunset Road",
+      "phoneNumber": "082765871909",
+      "email": "bintang@gmail.com",
+      "website": "bintang.com",
+      "ownerName": "pak bintang"
+    }
+  ],
+  "inventories": [],
+  "goods": [],
+  "student": [
+    {
+      "StudentName": "Seta",
+      "StudentID": 6040029871,
+      "PhoneNumber": 6882191781651,
+      "Address": "Jl.Mapala"
+    }
+  ],
+  "member": [],
+  "book": [],
+  "employee": [],
+  "storage": []
+}
